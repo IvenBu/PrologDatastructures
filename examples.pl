@@ -67,7 +67,7 @@ seedIn([Seed|V]) :-
 
 
 
-
+/*
 
 
 
@@ -221,3 +221,5 @@ accRemove(DatastructureType,Measurement,RemoveKeys,Keys,Values,X,Acc,Result):-
 
 
 % tabelleRemove(Mean,Confi,assert,on,random(26010,5548,23873,425005073),1000,1000,ordIdx,first,Result).
+
+*/
